@@ -14,7 +14,7 @@ header {
 }
 
 article {
-    display: flex;
+    display:block;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px;
